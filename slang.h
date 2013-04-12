@@ -1,10 +1,9 @@
 // types
-#define digits          int
-#define big_numba       float
-#define reely_big_numba double
-#define letta           char
-#define yesano          bool
-
+typedef int digits
+typedef float big_numba
+typedef double reel_big_numba
+typedef char letta
+typedef bool yes_a_no
 
 // operators
 #define is         =
@@ -12,7 +11,7 @@
 #define less       -
 #define divvy      /
 #define less_den   <
-#define mo_den    >
+#define mo_den     >
 #define andone     ++
 
 // booleans
