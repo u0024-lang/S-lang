@@ -33,5 +33,8 @@ typedef bool yes_a_no
 #define say      cout <<
 
 
-
+// misc.
+#define dis this
+#define bounce exit
+#define peace  return
 
